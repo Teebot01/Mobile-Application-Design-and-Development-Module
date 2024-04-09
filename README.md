@@ -13,5 +13,5 @@
 - These questions use the publically available NHS pages on various mental disorders to ask the user if they can relate to symptoms that are symptomatic of various mental disoreders.
 - These mnetal disorders have "score" variables that change depending on the users input for the questions.
 ## Page 5
-- A results page, which depending on the user's input to the questiosn on the previous page, will display a list of Pokemon sprites and their names from the PokeAPI, after the user selects the "get your results!" button.
+- A results page, which depending on the user's input to the questions on the previous page, will display a list of Pokemon sprites and their names from the PokeAPI, after the user selects the "get your results!" button.
 - Due to restricted access to APIs that contain data on actual doctors. I chose to substitute them for Pokemon instead, from the PokeAPI. The sprites would represent profile pictures and the names would represent contact information about the doctors, such as their names, phone numbers and email addresses.
