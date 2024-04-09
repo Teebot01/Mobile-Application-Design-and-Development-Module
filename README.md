@@ -28,4 +28,11 @@
 - Help with getting checkbox state .[Checkbox Help.3](https://chat.openai.com/c/49ca61da-1152-4015-8e2e-2c0e49cbd86b).
 - Console log issues .[Console Log Issues.1](https://chat.openai.com/c/d5a02d19-8092-4161-9633-216c60ad774d).
 - Console log issues .[Console Log Issues.2](https://chat.openai.com/c/e64c4f94-e345-4bec-a98c-100752f2640d).
-- 
+- Session storage help. [Session Storage Help](https://chat.openai.com/c/af3d13b6-93f8-4337-9aca-bbb288b18e05).
+- Radio component help [Radio Component Help](https://chat.openai.com/c/2b516004-ae8f-475e-b9ac-57f032bc6a1b).
+- Onchange help [Onchange Help](https://chat.openai.com/c/5b973bb3-9f9f-4ce9-9200-30774be2e947).
+- Small queries [Small Queries](https://chat.openai.com/c/7e8def2b-1309-46bb-bc85-73690ff9a380).(Again, some of the logs in here aren't related to the module, apologies).
+- Radio component help [Radio Component Help.2](https://chat.openai.com/c/92065dfb-a7d9-4193-a772-44e64edda4c2).
+- API Guidance [API Guidance.1](https://chat.openai.com/c/8b0747db-d89b-4a8f-b965-428b7e0381e1).
+- API Guidance [API Guidance.2](https://chat.openai.com/c/331a680c-4928-4411-92ae-cb529011df14).
+- General debugging [General Debugging.3](https://chat.openai.com/c/10459918-05e7-4a6f-9ff4-1419e623e83f).
