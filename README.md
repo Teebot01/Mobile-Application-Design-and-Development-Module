@@ -18,3 +18,4 @@
 ## Additional Details
 - When looking at the code you will notice that there are two copies of the .JS and .HTML files, I'm not sure why there are two but they both seem to function the same.
 ## ChatGPT Use
+- General Debugging [General Debugging.1](https://chat.openai.com/c/f69dc5b7-2ba2-43d6-bbc9-d1a27154389d).
