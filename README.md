@@ -15,3 +15,5 @@
 ## Page 5
 - A results page, which depending on the user's input to the questions on the previous page, will display a list of Pokemon sprites and their names from the PokeAPI, after the user selects the "get your results!" button.
 - Due to restricted access to APIs that contain data on actual doctors. I chose to substitute them for Pokemon instead, from the PokeAPI. The sprites would represent profile pictures and the names would represent contact information about the doctors, such as their names, phone numbers and email addresses.
+## Additional Details
+- When looking at the code you will notice that there are two copies of the .JS and .HTML files, I not sure why there are two but they both seem to function the same.
