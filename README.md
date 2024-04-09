@@ -24,3 +24,8 @@
 - ID help, recording states and debugging .[ID, Recording States and Debugging](https://chat.openai.com/c/036f3b64-0e8d-4e1a-bdb8-75e53609b732).
 - ID help .[ID Help](https://chat.openai.com/c/1d0e8246-7d2b-4ae9-9d60-d8a9663f49ea).
 - Symptoms page help .[Symptoms Page Help](https://chat.openai.com/c/8df9fbad-4f0e-4cef-8666-e4ceb2973190). (Apologies, some information in this chat log is unrelated to the module).
+- Help with getting checkbox state .[Checkbox Help.2](https://chat.openai.com/c/19268bb1-520b-4767-9348-a4b721b72d2a).
+- Help with getting checkbox state .[Checkbox Help.3](https://chat.openai.com/c/49ca61da-1152-4015-8e2e-2c0e49cbd86b).
+- Console log issues .[Console Log Issues.1](https://chat.openai.com/c/d5a02d19-8092-4161-9633-216c60ad774d).
+- Console log issues .[Console Log Issues.2](https://chat.openai.com/c/e64c4f94-e345-4bec-a98c-100752f2640d).
+- 
