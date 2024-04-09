@@ -17,4 +17,4 @@
 - Due to restricted access to APIs that contain data on actual doctors. I chose to substitute them for Pokemon instead, from the PokeAPI. The sprites would represent profile pictures and the names would represent contact information about the doctors, such as their names, phone numbers and email addresses.
 ## Additional Details
 - When looking at the code you will notice that there are two copies of the .JS and .HTML files, I'm not sure why there are two but they both seem to function the same.
-## ChatGPT use
+## ChatGPT Use
