@@ -17,6 +17,7 @@
 - Due to restricted access to APIs that contain data on actual doctors. I chose to substitute them for Pokemon instead, from the PokeAPI. The sprites would represent profile pictures and the names would represent contact information about the doctors, such as their names, phone numbers and email addresses.
 ## Additional Details
 - When looking at the code you will notice that there are two copies of the .JS and .HTML files, I'm not sure why there are two but they both seem to function the same.
+## Video Link
 ## ChatGPT Use
 - General debugging [General Debugging.1](https://chat.openai.com/c/f69dc5b7-2ba2-43d6-bbc9-d1a27154389d).
 - Help with getting checkbox state .[Checkbox Help.1](https://chat.openai.com/c/3e3f8909-f6df-4cb6-ab7f-6d3eecaeff66).
