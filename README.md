@@ -18,6 +18,7 @@
 ## Additional Details
 - When looking at the code you will notice that there are two copies of the .JS and .HTML files, I'm not sure why there are two but they both seem to function the same.
 ## Video Link
+- [Demonstration Video](https://liverguac-my.sharepoint.com/:v:/g/personal/j_rogers2_rgu_ac_uk/EXDwTALJaeJPh_Ada1EYISsBnMARYhcpJLac1LirVS9hmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AOtdD8)
 ## API Used
 For collecting images/sprites of Pokemon, along with their names [PokeAPI](https://pokeapi.co/).
 ## ChatGPT Use
