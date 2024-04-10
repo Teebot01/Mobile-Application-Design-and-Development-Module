@@ -1,3 +1,4 @@
+//Uses code from AnimalButtonNavigation material on moodle page for navigation
 //page one code
 customElements.define("page-one", class extends HTMLElement {
     connectedCallback() {
