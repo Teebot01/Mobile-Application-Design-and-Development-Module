@@ -16,7 +16,7 @@
 - A results page, which depending on the user's input to the questions on the previous page, will display a list of Pokemon sprites and their names from the PokeAPI, after the user selects the "get your results!" button.
 - Due to restricted access to APIs that contain data on actual doctors. I chose to substitute them for Pokemon instead, from the PokeAPI. The sprites would represent profile pictures and the names would represent contact information about the doctors, such as their names, phone numbers and email addresses.
 ## Additional Details
-- When looking at the code you will notice that there are two copies of the .JS and .HTML files, I'm not sure why there are two but they both seem to function the same.
+- When looking at the code you will notice that there are two copies of the .JS and .HTML files, I'm not sure why there are two but they both seem to function the same. The only exception being that for some reason only one of them has a comment that directly references using the AnimalButtonsNavigation code from moodle to help with the navigation.
 ## Video Link
 - [Demonstration Video](https://liverguac-my.sharepoint.com/:v:/g/personal/j_rogers2_rgu_ac_uk/EXDwTALJaeJPh_Ada1EYISsBnMARYhcpJLac1LirVS9hmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AOtdD8)
 ## API Used
