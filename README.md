@@ -23,7 +23,7 @@
 For collecting images/sprites of Pokemon, along with their names [PokeAPI](https://pokeapi.co/).
 ## YouTube Tutorials Used
 - [How to FETCH data from an API using JavaScript by Bro Code](https://www.youtube.com/watch?v=37vxWr0WgQk&t=676s)
-- 
+- [Use JavaScript to Get Value from a Textbox and Display on the Page by Six Minutes. Smarter.](https://www.youtube.com/watch?v=aEj0Wu33hJM&t=335s)
 ## ChatGPT Use
 - General debugging [General Debugging.1](https://chat.openai.com/c/f69dc5b7-2ba2-43d6-bbc9-d1a27154389d).
 - Help with getting checkbox state .[Checkbox Help.1](https://chat.openai.com/c/3e3f8909-f6df-4cb6-ab7f-6d3eecaeff66).
