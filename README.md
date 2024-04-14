@@ -20,7 +20,7 @@
 ## Video Link
 - [Demonstration Video](https://liverguac-my.sharepoint.com/:v:/g/personal/j_rogers2_rgu_ac_uk/EXDwTALJaeJPh_Ada1EYISsBnMARYhcpJLac1LirVS9hmA?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=AOtdD8)
 ## API Used
-For collecting images/sprites of Pokemon, along with their names [PokeAPI](https://pokeapi.co/).
+- For collecting images/sprites of Pokemon, along with their names [PokeAPI](https://pokeapi.co/).
 ## YouTube Tutorials Used
 - [How to FETCH data from an API using JavaScript by Bro Code](https://www.youtube.com/watch?v=37vxWr0WgQk&t=676s)
 - [Use JavaScript to Get Value from a Textbox and Display on the Page by Six Minutes. Smarter.](https://www.youtube.com/watch?v=aEj0Wu33hJM&t=335s)
